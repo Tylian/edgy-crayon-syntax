@@ -1,0 +1,15 @@
+{
+  "name": "edgy-crayon-syntax",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "description": "A dark theme using crayon inspirited colors.",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/tylian/edgy-crayon-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
